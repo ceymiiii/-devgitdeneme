@@ -1,3 +1,3 @@
 function topla() {
-	sonuc.innerHTML = sayi1.value + sayi2.value ;
+    sonuc.innerHTML = parseInt(sayi1.value) + parseInt(sayi2.value);
 }
